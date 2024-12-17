@@ -32,6 +32,6 @@ labels:
   ":twisted_rightwards_arrows: MERGE":
     include: ['\bMERGE\b', '\bMerge\b', '\bmerge\b']
   ":ambulance: !HOTFIX":
-    include: ['\bHOTFIX\b', '\bhotfix\b']
+    include: ['\bHOTFIX\b', '\bHotfix\b', '\bhotfix\b']
   ":bookmark: RELEASE":
     include: ['\bRelease\b', '\brelease\b']
